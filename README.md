@@ -10,13 +10,13 @@ The ESP32's ADC only accepts 0-3.3 V, but I want to probe signals up to ±30 V. 
 - **Protection:** a TVS diode at the probe, a series resistor, and a Schottky clamp at the ADC pin.
 ### LTspice
  
-![LTspice circuit](docs/images/ltspice-circuit.png)
-![LTspice simulation](docs/images/ltspice-simulation.png)
+![LTspice circuit](docs/images/ltspicecircuit.png)
+![LTspice simulation](docs/images/ltspicesim.png)
  
 ### KiCad
  
-![Schematic](docs/images/kicad-schematic.png)
-![PCB layout](docs/images/kicad-pcb.png)
-![3D view](docs/images/kicad-3d.png)
+![Schematic](docs/images/kicadscheme.png)
+![PCB layout](docs/images/kicadpcb.png)
+![3D view](docs/images/kicadpcb3d.png)
  
 ## References
