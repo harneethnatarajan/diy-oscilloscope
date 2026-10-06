@@ -20,3 +20,4 @@ The ESP32's ADC only accepts 0-3.3 V, but I want to probe signals up to ±30 V. 
 ![3D view](docs/images/kicadpcb3d.png)
  
 ## References
+- [Qasim Asghar](https://www.youtube.com/watch?v=ud-KkpsHcRo)
